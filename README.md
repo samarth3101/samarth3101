@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning **Python, cpp, JavaScript, and backend development**.  
 - 💞️ I’m looking to collaborate on **open-source projects, innovative web apps, and coding challenges**.  
 - 📫 How to reach me: [GitHub](https://github.com/samarth3101) or [LinkedIn](https://www.linkedin.com/in/samarth-patil-3101spp/).  
-- 😄 Pronouns: **He/Him**.  
+- 😄 Pronouns: **He**.  
 - ⚡ Fun fact: **I once binge-watched an entire series in a single day!**
