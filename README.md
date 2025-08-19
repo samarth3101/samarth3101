@@ -18,14 +18,20 @@
 
 ---
 
-## 🚀 Tech Arsenal  
+## 🚀 Featured Projects  
 
 <div align="center">
-  
-**Languages & Frameworks**  
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,java,html,css,nodejs,react,express,mysql,git,github" />
-</p>  
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Zecurex Platform**](https://github.com/samarth3101/Zecurex-platform) | AI-driven cybersecurity & fraud detection system | Python, ML, Web |
+| [**n8n Chatbot Agent**](https://github.com/samarth3101/n8n-chatbot-agent) | Low-code automation + chatbot workflows | n8n, Node.js |
+| [**Athertech ACM Website**](https://github.com/samarth3101/athertech_acm_off_web) | Official ACM chapter website | Next.js, Tailwind |
+| [**Samarth’s Website**](https://github.com/samarth3101/Samarth-s-Website) | Personal portfolio | Next.js |
+| [**SkillVenture Project-1**](https://github.com/samarth3101/SkillVenture/tree/main/Project-1) | Edtech initiative | React, Node.js |
+| [**mehutehu.com**](https://github.com/samarth3101/mehutehu.com) | Experimental web project | JavaScript |
+| [**DO101 Apps**](https://github.com/samarth3101/DO101-apps) | OpenShift practice apps | Python, Containers |
+| [**DSA Practice Leetcode**](https://github.com/samarth3101/dsa-practice-leetcode) | Algorithm & problem-solving repo | Java |
 
 </div>
 
@@ -52,10 +58,4 @@
 
 ---
 
-## 🎯 Fun Extras  
-
 ✨ *"Code. Create. Collaborate."*  
-📍 Exploring **AI/ML + Web** to shape impactful tech solutions.  
-🎮 Side quest: Gaming, binge-watching, and learning something new every day.  
-
----
