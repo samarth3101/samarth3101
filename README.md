@@ -19,19 +19,19 @@
 ### ⚡ Technologies I Work With  
 
 **Languages**  
-▹ Python ▹ C++ ▹ JavaScript ▹ TypeScript ▹ Java  
+▹ Python ▹ TypeScript ▹ Java ▹ JavaScript  
 
 **Frontend**  
-▹ React ▹ Next.js ▹ HTML5 ▹ CSS3 ▹ Tailwind CSS  
+▹ React ▹ Next.js ▹ HTML5 ▹ CSS3  
 
 **Backend**  
-▹ Node.js ▹ Express ▹ FastAPI ▹ MongoDB ▹ PostgreSQL  
+▹ Node.js ▹ Express ▹ FastAPI ▹ PostgreSQL  
 
 **AI / ML**  
 ▹ TensorFlow ▹ PyTorch ▹ Scikit-learn ▹ Pandas ▹ NumPy  
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,java,react,next,html,css,tailwind,nodejs,express,fastapi,mongodb,postgres,tensorflow,pytorch,sklearn,pandas,numpy" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,ts,java,js,react,next,html,css,nodejs,express,fastapi,postgres,tensorflow,pytorch,sklearn,pandas,numpy" />
 </p>
 
 </td>
@@ -42,10 +42,35 @@
 
 ![Samarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=samarth3101&show_icons=true&theme=radical&hide_border=true&hide_title=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth3101&layout=compact&theme=radical&hide_border=true)  
+---
+
+### 🎯 Language Focus  
+
+- **TypeScript** → 35%  
+- **Python** → 33%  
+- **Java** → 30%  
+- **JavaScript** → 2%  
+
+---
+
+### 🏆 Profile Grade  
+
+<div align="center">
+  
+<img src="https://img.shields.io/badge/Grade-A%2B-brightgreen?style=for-the-badge&logo=github" />
+
+</div>
 
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *"Code. Create. Collaborate."*  
 
 </div>
