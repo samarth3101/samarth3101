@@ -5,6 +5,4 @@
    git commit -m "fixed stuff"  
    git push origin main  
 
-          ↓
-
    panic → force push → regret
